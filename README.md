@@ -1,4 +1,4 @@
-### Pablo Terrone | 21 👋
+### Pablo Terrone
 
 - :briefcase: Trabajo como desarrollador para Prebi-sedici (UNLP)
 - :man_student: Cursando el 4to año de Lic. en Sistemas en la UNLP
